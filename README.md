@@ -1,6 +1,6 @@
 # Meals App
 
-This application allows users to collect data with their amount and put it in their Cart, control data again from Cart “increase it or decrease”.
+This application allows users to fetch meals from backend data with their amount and put it in their Cart, control data again from the Cart “increase it or decrease” and finally use the form" with validation" to collect data about the user to complete the order when the user click confirm data sent to backend "firebase" for orders node.
 
 # Technology Stack
 
